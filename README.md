@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi — I'm Aysa
 
-<!--
-**aysaghadimi/aysaghadimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student learning Python with an interest in data analysis and AI.  
+I focus on building clear, well-structured projects that demonstrate steady progress and practical skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+- **BMI Management System (Python)** — a console-based program for managing user data, calculating BMI, classifying results, and performing basic searches and edits.
+
+---
+
+## Skills & Tools
+- Python  
+- Git & GitHub  
+- Jupyter Notebook  
+- Currently learning: NumPy, Pandas, Scikit-learn
+
+---
+
+## Goals
+- Develop strong fundamentals in machine learning and AI  
+- Build practical, step-by-step projects for a professional portfolio  
+- Prepare for a Master’s degree in Artificial Intelligence
+
+---
+
+## Contact
+- GitHub: [github.com/aysaghadimi](https://github.com/aysaghadimi)  
+- LinkedIn: [linkedin.com/in/aysa-ghadimi-4aa363333/](https://www.linkedin.com/in/aysa-ghadimi-4aa363333/)  
+- Email: aysaghadimi2@gmail.com
